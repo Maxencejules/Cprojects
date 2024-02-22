@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <stdbool.h>   // For boolean types
+#include <string.h>    // For string manipulation functions
+#include <stdlib.h>    // For exit() function
+#include <locale.h>    // For locale-specific operations (if needed)
+
 //Program to generate the date format (Month day(suffix), year)
 int main(void) {
     int month, day, year;

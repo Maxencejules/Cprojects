@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdbool.h>
 //calendar calculator
 
 // Function to determine if a given year is a leap year

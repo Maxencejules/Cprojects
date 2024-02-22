@@ -1,5 +1,6 @@
-
-//calendar calculator
+#include <stdio.h>
+#include <stdbool.h>
+#include <stdlib.h> // Include <stdlib.h> header file
 
 // Function to determine if a given year is a leap year
 bool is_leap_year(int year) {
@@ -54,3 +55,4 @@ int main() {
     
     return 0;
 }
+

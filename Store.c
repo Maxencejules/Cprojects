@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 //Store display message program
 int main() {
     // Variable Declaration
